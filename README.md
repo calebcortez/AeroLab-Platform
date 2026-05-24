@@ -1,4 +1,4 @@
-# AeroLab Portable Access Platform
+# AeroLab Platform 1
 
 My individual contributions to a team-designed portable elevated access platform for aircraft and spacecraft mockup maintenance (UH-Clear Lake, SCRCA Conference 2026).
 
